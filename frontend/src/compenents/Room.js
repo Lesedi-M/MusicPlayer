@@ -132,7 +132,7 @@ class Room extends Component {
             color="secondary"
             onClick={() => this.updateShowSettings(false)}
           >
-            Close
+            Close X
           </Button>
         </Grid>
       </Grid>
